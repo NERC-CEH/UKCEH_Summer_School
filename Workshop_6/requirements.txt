@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+contextily
+pyproj
+fiona
+rtree
+scikit-learn
+gdown
