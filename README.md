@@ -1,7 +1,7 @@
 # UKCEH Summer School - Data Driven Approaches to Hydrological Science
 [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
 
-Welcome to the **UKCEH Summer School** 2025 on *Data Driven Approaches to Hydrological Science*. 
+Welcome to the **UKCEH Summer School** 2026 on *Data Driven Approaches to Hydrological Science*. 
 
 ![COSMOS_ALCI1.png](https://raw.githubusercontent.com/NERC-CEH/UKCEH_Summer_School/refs/heads/main/content/Project_logos.png)
 
@@ -50,6 +50,25 @@ The high-level objectives of this summer school are:
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
 #### ????To run the training notebooks using *Binder*, follow these steps:????
+1. Open the Binder website at https://mybinder.org/.
+2. Under GitHub repository name or URL, enter the URL of this repository.
+3. Leave the "Git ref" and "File to open" fields blank to use the get the whole repo.
+4. Click Launch.
+5. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
+6. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
+7. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
+8. To keep a copy of your work, download the notebook using **File → Download As → Notebook (.ipynb)** before ending the session.
+9. Binder sessions are temporary and may terminate after a period of inactivity.
+
+???
+1. Navigate to the GitHub repository page.
+2. Click the Launch Binder badge (or use the Binder link provided below).
+3. Wait for Binder to build and launch the interactive environment. This may take a few minutes, especially the first time.
+4. Once the Binder environment has loaded, open the desired training notebook from the file browser.
+5. Run the notebook cells sequentially using Run → Run All Cells or by executing cells individually.
+6. Modify the code and experiment as needed. Changes made within Binder are temporary and will not be saved to the GitHub repository.
+7. To keep a copy of your work, download the notebook using File → Download As → Notebook (.ipynb) before closing the session.
+???
 ---
 
 ## Introduction to the Workshops
@@ -61,7 +80,7 @@ This series of different interactive workshops is designed to introduce particip
 This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is in [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1).
 
 ### Workshop 2: Approaches to Hydrological Modelling
-**Facilitators:** *Nathan Rickards | Helen Baron | Giovanni Bernardi*
+**Facilitators:** *Helen Baron | Giovanni Bernardi | Nathan Rickards*
 
 An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to [Workshop 2](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2).
 
