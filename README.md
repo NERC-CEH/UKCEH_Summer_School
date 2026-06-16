@@ -49,6 +49,7 @@ To run the training notebooks using *Google Colab*, follow these steps:
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
+## Running the Training Notebooks on Binder
 ---
 
 ## Introduction to the Workshops
