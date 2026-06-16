@@ -34,8 +34,8 @@ The high-level objectives of this summer school are:
 - Offer hands-on experience with standard tools and packages through practical applications
 
 <a id='running-on-colab'></a>
-## Running the Training Notebooks on Google Colab
-To run the training notebooks using *Google Colab*, follow these steps:
+## Running the Training Notebooks
+### To run the training notebooks using *Google Colab*, follow these steps:
 1. **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/).
 2. In Colab, go to **File > Open notebook**.
 3. Select the **GitHub** tab.
@@ -49,7 +49,7 @@ To run the training notebooks using *Google Colab*, follow these steps:
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
-## Running the Training Notebooks on Binder
+### <font color="red"> To run the training notebooks using *Binder*, follow these steps:</font>
 ---
 
 ## Introduction to the Workshops
