@@ -1,5 +1,6 @@
-We recommend launching this workshop using <a href="https://mybinder.org/">Binder</a>. 
 [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
+
+We recommend launching this workshop using <a href="https://mybinder.org/">Binder</a>. 
 
 Clicking the <a href="https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main">Binder launch badge</a> above will open the Workshop6 GitHub repository in a JupyterNotebook environment, with the notebook we will be working on 'Workshop6.ipynb' ready to run. 
 
