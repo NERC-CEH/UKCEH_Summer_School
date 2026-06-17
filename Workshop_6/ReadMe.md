@@ -1,15 +1,23 @@
-[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/update%2Fworkshop-6)
+<a id='running-on-binder'></a>
+## Running the Training Notebook with Binder
 
 We recommend launching this workshop using <a href="https://mybinder.org/">Binder</a>. 
+
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/update%2Fworkshop-6)
 
 Clicking the <a href="https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main">Binder launch badge</a> above will open the Workshop6 GitHub repository in a JupyterNotebook environment, with the notebook we will be working on 'Workshop6.ipynb' ready to run. 
 
 The Binder environment is pre-configured with the necessary Python packages from the environment file (requirements.txt).
 
+<a id='running-on-colab'></a>
+## Running the Training Notebook with Google Colab
+
 If Binder doesn't work then a back up option is to use Google Colab.  
 
-<a id='running-on-colab'></a>
-## Running the Training Notebooks on Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/update%2Fworkshop-6/Workshop_6/Workshop6.ipynb)
+
+Clicking the Google Colab button above will open 
+
 To run the training notebooks using *Google Colab*, follow these steps:
 1. **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/).
 2. In Colab, go to **File > Open notebook**.
