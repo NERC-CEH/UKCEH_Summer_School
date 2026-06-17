@@ -1,11 +1,11 @@
 import polars as pl
 
 
-
 def convert_time_to_hour_base(data, hour, time_col="time"):
-    """For polars dataframes to convert timestamp to 9 am.
-    Both HadUK-Grid and CEH-GEAR are base 9am-9am, but the
-    data is stored differently."""
+    """
+    Convert timestamp of polars dataframe to a given base hour e.g. 9 am.
+    Both HadUK-Grid and CEH-GEAR are base 9am-9am, but the data is stored differently.
+    """
     return data.with_columns(
         pl.datetime(
             pl.col(time_col).dt.year(),
