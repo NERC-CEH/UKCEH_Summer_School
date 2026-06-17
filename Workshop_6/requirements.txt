@@ -1,9 +1,12 @@
-pandas>=2.2.0
-numpy>=2.0.2
-matplotlib>=3.9.2
-geopandas>=1.0.1
-shapely>=2.1.1
+pandas
+numpy
+matplotlib
+geopandas
+shapely
 contextily
+pyproj
+fiona
+rtree
 scikit-learn
 gdown
 
