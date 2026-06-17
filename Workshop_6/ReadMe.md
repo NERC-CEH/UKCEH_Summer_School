@@ -1,4 +1,4 @@
-[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/update%2Fworkshop-6)
 
 We recommend launching this workshop using <a href="https://mybinder.org/">Binder</a>. 
 
