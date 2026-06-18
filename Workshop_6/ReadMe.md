@@ -3,7 +3,7 @@
 
 We recommend launching this workshop using <a href="https://mybinder.org/">Binder</a>. 
 
-[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/update%2Fworkshop-6)
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
 
 Clicking the <a href="https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main">Binder launch badge</a> above will open the Workshop6 GitHub repository in a JupyterNotebook environment, with the notebook we will be working on 'Workshop6.ipynb' ready to run. 
 
@@ -14,7 +14,7 @@ The Binder environment is pre-configured with the necessary Python packages from
 
 If Binder doesn't work then a back up option is to use Google Colab.  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/update%2Fworkshop-6/Workshop_6/Workshop6.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_6/Workshop6.ipynb)
 
 Clicking the Google Colab button above will open the notebook in Google Colab.
 
