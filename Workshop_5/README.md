@@ -1,18 +1,17 @@
-Workshop 5: Creating FAIR Outputs, Wednesday 16th July 13:00-14:00.
+## Workshop 5: Creating FAIR Outputs, Thursday 16th July 10:30-12:00 BST.
 
-Led by: Jasmine Hunter and Els Dhiedt
+**Led by**: Jasmine Hunter and Els Dhiedt
 
-Overview:
+**Learning outcome**: During this session you will gain an understanding of the FAIR principles,how to create and publish FAIR datasets, and be able to apply the FAIR principles to your own data and metadata.
 
-Learning outcome: During this session you will gain an understanding of the FAIR principles,how to create and publish FAIR datasets, and be able to apply the FAIR principles to your own data and metadata.
-
-The session will cover the following through group exercises and discussion:
+**The session will cover the following through group exercises and discussion**:
 1. What are the FAIR Principles and why are they important for open science
 2. How to create FAIR data
 3. publishing FAIR data as a scientific output
 4. FAIR metadata and supporting information
 
-Useful links and resources:
+**Useful links and resources**:
+
 1. Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
 
 2. Barker, M., Chue Hong, N.P., Katz, D.S. et al. Introducing the FAIR Principles for research software. Sci Data 9, 622 (2022). https://doi.org/10.1038/s41597-022-01710-x
