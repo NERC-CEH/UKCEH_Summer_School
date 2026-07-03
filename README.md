@@ -42,7 +42,7 @@ The high-level objectives of this summer school are:
 
 > **Important:** Before you start editing, make sure to **Save a copy to your own Google Drive**.
 
-6. Go to **File > Save a copy in Drive**. This will open a new tab with the title `Copy of <Notebook Name>`.
+6. Go to **File > Save a copy in Drive**. This will open a new tab with the title **Copy of <Notebook Name>**.
 7. You are now working on your own copy of the notebook, which you can rename if you choose.
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
@@ -77,13 +77,13 @@ An introduction to hydrological modelling, with a hands on application of a UKCE
 
 
 ### Workshop 3: Exploring hydrological data
-**Facilitators:** *Matt Dalle Piagge | Tom Keel*
+**Facilitators:** *Matt Dalle Piagge | Tom Keel | Kit Macleod*
 
 Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to [Workshop 3](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_3).
 
 
 ### Workshop 4: Researching with hydrological data
-**Facilitators:** *Tom Keel | Matt Dalle Piagge*
+**Facilitators:** *Tom Keel | Matt Dalle Piagge | Kit Macleod*
 
 Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to [Workshop 4](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_4).
 
@@ -95,7 +95,7 @@ During this session you will gain an understanding of the FAIR principles, how t
 
 
 ### Workshop 6: Using an open dataset and machine learning to explore British hydrological diversity
-**Facilitators:** *Molly Asher | Ali Rudd*
+**Facilitators:** *Molly Asher | Ali Rudd | Matt Fry*
 
 This workshop introduces the CAMELS-GB dataset and how it can be used to better understand, explain and predict how catchments are likely to respond to rainfall events. We explore how maps can be used to visualise and reveal patterns in catchment characteristics and then use machine learning techniques to investigate how catchment characteristics influence hydrological behaviour and flow variability across Great Britain. Here is the link to [Workshop 6](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_6).
 
