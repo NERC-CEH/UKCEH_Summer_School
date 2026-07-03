@@ -51,10 +51,12 @@ The high-level objectives of this summer school are:
 
 #### To run the training notebooks using *Binder*, follow these steps:
 1. To open the GitHub repository in Binder, follow *one* of the options below:
-   A. Launch directly from GitHub
+
+   A. *Launch directly from GitHub*
       - Go to the GitHub repository page.  
       - Click the **Launch Binder** badge (or use the Binder link provided).
-   B. Launch via the Binder website
+
+   B. *Launch via the Binder website*
       - Open https://mybinder.org/.  
       - Enter the GitHub repository URL under *GitHub repository name or URL*.  
       - Leave *Git ref* and *File to open* blank to open the full repository.  
