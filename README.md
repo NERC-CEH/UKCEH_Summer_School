@@ -51,15 +51,16 @@ The high-level objectives of this summer school are:
 
 #### To run the training notebooks using *Binder*, follow these steps:
 1. To open the GitHub repository in Binder, follow *one* of the options below:
+
    *A. Launch directly from GitHub*
       (i) Go to the GitHub repository page.  
       (ii) Click the **Launch Binder** badge (or use the Binder link provided).
+
    *B. Launch via the Binder website*
-   (i) Open https://mybinder.org/.  
-   (ii) Enter the GitHub repository URL under *GitHub repository name or URL*.  
-   (iii) Leave *Git ref* and *File to open* blank to open the full repository.  
-   (iv) Click **Launch**.
-      
+      (i) Open https://mybinder.org/.  
+      (ii) Enter the GitHub repository URL under *GitHub repository name or URL*.  
+      (iii) Leave *Git ref* and *File to open* blank to open the full repository.  
+      (iv) Click **Launch**.
 2. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
 3. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
 4. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
@@ -80,7 +81,7 @@ This series of different interactive workshops is designed to introduce particip
 This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is in [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1).
 
 ### Workshop 2: Approaches to Hydrological Modelling
-**Facilitators:** *Helen Baron | Giovanni Bernardi | Nathan Rickards*
+**Facilitators:** *Helen Baron | Giovanni Bernardi | Zara Crapper | Nathan Rickards*
 
 An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to [Workshop 2](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2).
 
