@@ -49,26 +49,25 @@ The high-level objectives of this summer school are:
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
-#### ????To run the training notebooks using *Binder*, follow these steps:????
-1. Open the Binder website at https://mybinder.org/.
-2. Under GitHub repository name or URL, enter the URL of this repository.
-3. Leave the "Git ref" and "File to open" fields blank to use the get the whole repo.
-4. Click Launch.
+#### To run the training notebooks using *Binder*, follow these steps:
+1. To open the GitHub repository in Binder, follow one of the sub-steps below:
+	A. Launch directly from the GitHub repository
+		+ Navigate to the GitHub repository page.
+		+ Click the Launch Binder badge (or use this ?????Binder link?????).
+	B. Launch from the Binder website
+		+ Open the Binder website at https://mybinder.org/.
+		+ Under GitHub repository name or URL, enter the URL of this repository.
+		+ Leave the "Git ref" and "File to open" fields blank to use the get the whole repo.
+		+ Click Launch.
 5. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
 6. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
 7. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
-8. To keep a copy of your work, download the notebook using **File → Download As → Notebook (.ipynb)** before ending the session.
+
+> **Important:** Before closing the session, make sure to **Download a copy of your Notebook**.
+
+8. Download the notebook using **File > Download As > Notebook (.ipynb)** before ending the session.
 9. Binder sessions are temporary and may terminate after a period of inactivity.
 
-???
-1. Navigate to the GitHub repository page.
-2. Click the Launch Binder badge (or use the Binder link provided below).
-3. Wait for Binder to build and launch the interactive environment. This may take a few minutes, especially the first time.
-4. Once the Binder environment has loaded, open the desired training notebook from the file browser.
-5. Run the notebook cells sequentially using Run → Run All Cells or by executing cells individually.
-6. Modify the code and experiment as needed. Changes made within Binder are temporary and will not be saved to the GitHub repository.
-7. To keep a copy of your work, download the notebook using File → Download As → Notebook (.ipynb) before closing the session.
-???
 ---
 
 ## Introduction to the Workshops
