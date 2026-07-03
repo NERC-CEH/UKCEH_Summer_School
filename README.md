@@ -105,7 +105,7 @@ This workshop introduces the CAMELS-GB dataset and how it can be used to better 
 If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
 
 > [Amulya Chevuturi](mailto:amuche@ceh.ac.uk)  
-> [Tom Keel](mailto:tomkee@ceh.ac.uk)
+> [Tom Keel](mailto:tomkee@ceh.ac.uk)  
 > [Matt Dalle Piage](mailto:matbro@ceh.ac.uk)  
-> [Gianni Vesuviano](mailto:giaves@ceh.ac.uk)
+> [Gianni Vesuviano](mailto:giaves@ceh.ac.uk)  
 > [Matt Fry](mailto:mfry@ceh.ac.uk)
