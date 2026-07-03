@@ -51,8 +51,8 @@ The high-level objectives of this summer school are:
 
 #### To run the training notebooks using *Binder*, follow these steps:
 1. To open the GitHub repository in Binder, follow *one* of the options below:
-	- *Launch directly from GitHub*: Go to the GitHub repository page. Click the **Launch Binder** badge (or use the ?????Binder link????).
-	- *Launch via the Binder website*: Open https://mybinder.org/. Enter the GitHub repository URL under *GitHub repository name or URL*. Leave *Git ref* and *File to open* blank to open the full repository. Click **Launch**.
+	- *Launch directly from GitHub*: Go to the GitHub repository page. Click the **Launch Binder** badge at the top of README document (or use the ![Binder link](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main) here.
+	- *Launch via the Binder website*: Open https://mybinder.org/. Enter the ![GitHub repository URL](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main) under *GitHub repository name or URL*. Leave *Git ref* and *File to open* blank to open the full repository. Click **Launch**.
 2. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
 3. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
 4. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
