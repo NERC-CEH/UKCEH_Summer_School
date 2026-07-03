@@ -53,8 +53,8 @@ The high-level objectives of this summer school are:
 1. To open the GitHub repository in Binder, follow *one* of the options below:
 
    *A. Launch directly from GitHub*
-      (i) Go to the GitHub repository page.  
-      (ii) Click the **Launch Binder** badge (or use the Binder link provided).
+      - Go to the GitHub repository page.  
+      - Click the **Launch Binder** badge (or use the Binder link provided).
 
    *B. Launch via the Binder website*
       (i) Open https://mybinder.org/.  
