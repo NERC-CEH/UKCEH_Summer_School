@@ -49,7 +49,7 @@ The high-level objectives of this summer school are:
 
 #### To run the training notebooks using *Binder*, follow these steps:
 1. To open the GitHub repository in Binder, follow *one* of the options below:
-	- *Launch directly from GitHub*: Click the **Launch Binder** badge at the top of README document (or use the <a href=https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main>Binder link</a> here.
+	- *Launch directly from GitHub*: Click the **Launch Binder** badge at the top of README document (or use the [Binder link](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main) <a href=https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main>Binder link</a> here.
 	- *Launch via the Binder website*: Open https://mybinder.org/. Enter the <a href=https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main>GitHub repository URL</a> under **GitHub repository name or URL**. Leave *Git ref* and *File to open* blank to open the full repository. Click **Launch**.
 2. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
 3. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
@@ -86,7 +86,7 @@ Hands-on session on exploring different types of hydroclimate datasets, includin
 **Facilitators:** *Tom Keel | Matt Dalle Piagge | Kit Macleod*
 
 Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to [Workshop 4](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_4).
-
+Gianni Vesuviano
 
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
@@ -105,7 +105,7 @@ This workshop introduces the CAMELS-GB dataset and how it can be used to better 
 If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
 
 > [Amulya Chevuturi](mailto:amuche@ceh.ac.uk)  
+> [Tom Keel](mailto:tomkee@ceh.ac.uk)
 > [Matt Dalle Piage](mailto:matbro@ceh.ac.uk)  
-> [Tom Keel](mailto:tomkee@ceh.ac.uk)  
-> [Nathan Rickards](mailto:natric@ceh.ac.uk)
-
+> [Gianni Vesuviano](mailto:giaves@ceh.ac.uk)
+> [Matt Fry](mailto:mfry@ceh.ac.uk)
