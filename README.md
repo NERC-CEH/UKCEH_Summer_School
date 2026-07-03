@@ -50,23 +50,26 @@ The high-level objectives of this summer school are:
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
 #### To run the training notebooks using *Binder*, follow these steps:
-1. To open the GitHub repository in Binder, follow one of the sub-steps below:
-   - *Launch directly from the GitHub repository*
-      - Navigate to the GitHub repository page.
-      - Click the Launch Binder badge (or use this ?????Binder link?????).
-   - *Launch from the Binder website*
-      - Open the Binder website at https://mybinder.org/.
-      - Under GitHub repository name or URL, enter the URL of this repository.
-      - Leave the "Git ref" and "File to open" fields blank to use the get the whole repo.
-      - Click Launch.
-5. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
-6. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
-7. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
+1. To open the GitHub repository in Binder, follow *one* of the options below:
+
+   **A. Launch directly from GitHub**
+   (i) Go to the GitHub repository page.  
+   (ii) Click the **Launch Binder** badge (or use the Binder link provided).
+
+   **B. Launch via the Binder website**
+   (i) Open https://mybinder.org/.  
+   (ii) Enter the GitHub repository URL under *GitHub repository name or URL*.  
+   (iii) Leave *Git ref* and *File to open* blank to open the full repository.  
+   (iv) Click **Launch**.
+      
+2. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
+3. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
+4. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
 
 > **Important:** Before closing the session, make sure to **Download a copy of your Notebook**.
 
-8. Download the notebook using **File > Download As > Notebook (.ipynb)** before ending the session.
-9. Binder sessions are temporary and may terminate after a period of inactivity.
+5. Download the notebook using **File > Download As > Notebook (.ipynb)** before ending the session.
+6. Binder sessions are temporary and may terminate after a period of inactivity.
 
 ---
 
