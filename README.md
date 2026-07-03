@@ -10,7 +10,7 @@ This series of hands-on workshops introduces the fundamentals of accessing, mode
 <details>
     <summary><i><b>If you are not attending the online Summer School, please click here to read this message.</i></b></b></summary>
     
-These notebooks were developed for the UKCEH Summer School and are intended for interactive use during the training sessions. They are designed to run on any JupyterLab environment, such as <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup. You can also launch the repository using <a href="https://mybinder.org/">Binder</a> by clicking the <a href="https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main">Binder launch badge</a>, at the top of this README, which will open the repository in a JupyterLab environment. The Binder environment is pre-configured with the necessary Python packages from the environment file (requirements.txt). For guidance on how to run the notebooks, see the [Running the Training Notebooks](#running-notebooks) section below.
+These notebooks were developed for the UKCEH Summer School and are intended for interactive use during the training sessions. They are designed to run on any JupyterLab environment, such as [Google Colab](https://colab.google/), which allows you to get started quickly without any local setup. You can also launch the repository using [Binder](https://mybinder.org/) by clicking the [Binder launch badge](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main), at the top of this README, which will open the repository in a JupyterLab environment. The Binder environment is pre-configured with the necessary Python packages from the environment file (requirements.txt). For guidance on how to run the notebooks, see the [Running the Training Notebooks](#running-notebooks) section below.
 
 *Note: Collab and Binder has resource limitations, so there might be some performance issues.*
 
@@ -49,8 +49,8 @@ The high-level objectives of this summer school are:
 
 #### To run the training notebooks using *Binder*, follow these steps:
 1. To open the GitHub repository in Binder, follow *one* of the options below:
-	- *Launch directly from GitHub*: Click the **Launch Binder** badge at the top of README document (or use the [Binder link](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main) <a href=https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main>Binder link</a> here.
-	- *Launch via the Binder website*: Open https://mybinder.org/. Enter the <a href=https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main>GitHub repository URL</a> under **GitHub repository name or URL**. Leave *Git ref* and *File to open* blank to open the full repository. Click **Launch**.
+	- *Launch directly from GitHub*: Click the **Launch Binder** badge at the top of README document (or use the [Binder link](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main) here.
+	- *Launch via the Binder website*: Open the [Binder website](https://mybinder.org/). Enter the [GitHub repository URL](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main)under **GitHub repository name or URL**. Leave *Git ref* and *File to open* blank to open the full repository. Click **Launch**.
 2. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
 3. Once the Jupyter environment opens, navigate to the notebook directory and select the training notebook you wish to run.
 4. Any changes made in the Binder session are temporary and will not be saved to the GitHub repository.
@@ -86,7 +86,7 @@ Hands-on session on exploring different types of hydroclimate datasets, includin
 **Facilitators:** *Tom Keel | Matt Dalle Piagge | Kit Macleod*
 
 Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to [Workshop 4](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_4).
-Gianni Vesuviano
+
 
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
