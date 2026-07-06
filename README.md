@@ -1,5 +1,6 @@
 # UKCEH Summer School - Data Driven Approaches to Hydrological Science
 [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main)
 
 Welcome to the **UKCEH Summer School** 2026 on *Data Driven Approaches to Hydrological Science*. 
 
