@@ -10,6 +10,10 @@
 3. publishing FAIR data as a scientific output
 4. FAIR metadata and supporting information
 
+**Resources in this folder:**
+1. Workshop outline: Agenda_Creating_FAIR_Outputs_2026.docx
+2. Slides: Creating_FAIR_Outputs_slides.pdf
+
 **Useful links and resources**:
 
 1. Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
