@@ -71,7 +71,7 @@ This series of different interactive workshops is designed to introduce particip
 This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is in [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1).
 
 ### Workshop 2: Approaches to Hydrological Modelling
-**Facilitators:** *Helen Baron | Giovanni Bernardi | Zara Crapper | Nathan Rickards*
+**Facilitators:** *Helen Baron | Giovanni Bernardi | Zara Crapper | Nathan Rickards*  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2/summer_school_hydro_modelling_2026.ipynb)
 
 An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to [Workshop 2](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2).
