@@ -1,6 +1,5 @@
 # UKCEH Summer School - Data Driven Approaches to Hydrological Science
 [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_4/Workshop_4_comparing_rainfall_estimates.ipynb)
 
 Welcome to the **UKCEH Summer School** 2026 on *Data Driven Approaches to Hydrological Science*. 
 
@@ -73,18 +72,23 @@ This workshop will have hands-on Git exercises designed to help you practise ess
 
 ### Workshop 2: Approaches to Hydrological Modelling
 **Facilitators:** *Helen Baron | Giovanni Bernardi | Zara Crapper | Nathan Rickards*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2/summer_school_hydro_modelling_2026.ipynb)
 
 An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to [Workshop 2](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2).
 
 
 ### Workshop 3: Exploring hydrological data
 **Facilitators:** *Matt Dalle Piagge | Tom Keel | Kit Macleod*
+[![Open In Colab (part 1)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part1-text-school.ipynb)
+[![Open In Colab (part 2)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part2-vector-school.ipynb)
+[![Open In Colab (part 3)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part3-gridded-school.ipynb)
 
 Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to [Workshop 3](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_3).
 
 
 ### Workshop 4: Researching with hydrological data
 **Facilitators:** *Tom Keel | Matt Dalle Piagge | Kit Macleod*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_4/Workshop_4_comparing_rainfall_estimates.ipynb)
 
 Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to [Workshop 4](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_4).
 
@@ -97,6 +101,8 @@ During this session you will gain an understanding of the FAIR principles, how t
 
 ### Workshop 6: Using an open dataset and machine learning to explore British hydrological diversity
 **Facilitators:** *Molly Asher | Ali Rudd | Matt Fry*
+[![Binder (reccomended)](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
+[![Open In Colab (backup option)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_6/Workshop6.ipynb)
 
 This workshop introduces the CAMELS-GB dataset and how it can be used to better understand, explain and predict how catchments are likely to respond to rainfall events. We explore how maps can be used to visualise and reveal patterns in catchment characteristics and then use machine learning techniques to investigate how catchment characteristics influence hydrological behaviour and flow variability across Great Britain. Here is the link to [Workshop 6](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_6).
 
