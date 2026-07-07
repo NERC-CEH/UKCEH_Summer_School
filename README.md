@@ -19,6 +19,8 @@ You are also very welcome to explore the notebooks at your own pace, on any plat
 
    > !python -m pip install -r requirements.txt
 
+Workshop 1 consists of Python scripts rather than Jupyter notebooks. It therefore requires a Python environment to run locally, or alternatively can be run directly in GitHub Codespaces using the pre-configured environment.
+
 If you would like help setting up the environment on your local machine or another platform, we are happy to provide support. 
 
 </details>
