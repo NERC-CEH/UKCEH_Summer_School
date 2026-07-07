@@ -67,9 +67,12 @@ This series of different interactive workshops is designed to introduce particip
 
 ### Workshop 1: Intro to Git
 **Facilitators:** *Simon Stanley*
+
 [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&repo=1007817907&skip_quickstart=true)
 
-This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is in [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1). Please run this workshop using **GitHub Codespaces**, which provides a pre-configured environment with all required dependencies installed.
+This workshop will be run using **GitHub Codespaces**, which provides a pre-configured environment with all required dependencies installed.
+
+This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is in [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1). 
 
 ### Workshop 2: Approaches to Hydrological Modelling
 **Facilitators:** *Helen Baron | Giovanni Bernardi | Zara Crapper | Nathan Rickards*  
@@ -119,4 +122,5 @@ If you have any questions or need assistance with the workshops, please feel fre
 ---
 ## Licence
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Content in this repository is licensed under CC BY-NC 4.0. Please acknowledge the authors and organisation (UKCEH) when reusing or adapting these materials. 
