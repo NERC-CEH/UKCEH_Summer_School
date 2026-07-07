@@ -34,8 +34,8 @@ The high-level objectives of this summer school are:
 
 <a id='running-on-colab'></a>
 ## Running the Training Notebooks
-#### To run the training notebooks using *Google Colab*, follow these steps:
-1. To open the GitHub repository in [Google Colab](https://colab.research.google.com/), follow *one* of the options below:
+#### To run the training notebooks using [**Google Colab**](https://colab.research.google.com/), follow these steps:
+1. First follow *one* of the options below:
 	- *Launch directly from GitHub*: Click the **Open in Colab** badge at the top of README to open the entire repository in Google Colab, or use the individual badges provided below to launch specific notebooks under each workshop description(or use the [Colab link](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main) here.
 	- *Launch via the Colab website*: **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/). Go to **File > Open notebook**. Select the **GitHub** tab. Paste the URL of the specific notebook (ending in `.ipynb`) from this repository into the search bar.
 2. Click on the notebook you want to open.
@@ -48,7 +48,7 @@ The high-level objectives of this summer school are:
 6. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
 #### To run the training notebooks using *Binder*, follow these steps:
-1. To open the GitHub repository in Binder, follow *one* of the options below:
+1. First follow *one* of the options below:
 	- *Launch directly from GitHub*: Click the **Launch Binder** badge at the top of README document (or use the [Binder link](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main) here.
 	- *Launch via the Binder website*: Open the [Binder website](https://mybinder.org/). Enter the [GitHub repository URL](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main)under **GitHub repository name or URL**. Leave *Git ref* and *File to open* blank to open the full repository. Click **Launch**.
 2. Wait for Binder to build and start the interactive environment. This may take several minutes the first time the repository is launched.
@@ -67,31 +67,29 @@ This series of different interactive workshops is designed to introduce particip
 
 ### Workshop 1: Intro to Git
 **Facilitators:** *Simon Stanley*
-Git training repo: [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&repo=1007817907&skip_quickstart=true)
+[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&repo=1007817907&skip_quickstart=true)
 
 This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is in [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1). Please run this workshop using **GitHub Codespaces**, which provides a pre-configured environment with all required dependencies installed.
 
 ### Workshop 2: Approaches to Hydrological Modelling
 **Facilitators:** *Helen Baron | Giovanni Bernardi | Zara Crapper | Nathan Rickards*  
-Hydrological modelling notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2/summer_school_hydro_modelling_2026.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2/summer_school_hydro_modelling_2026.ipynb)
 
 An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to [Workshop 2](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_2).
 
 
 ### Workshop 3: Exploring hydrological data
 **Facilitators:** *Matt Dalle Piagge | Tom Keel | Kit Macleod*  
-Notebook on textual data (Part 1): [![Open In Colab (part 1)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part1-text-school.ipynb)
-
-Notebook on vector data (Part 2): [![Open In Colab (part 2)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part2-vector-school.ipynb)
-
-Notebook on gridded data (Part 3): [![Open In Colab (part 3)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part3-gridded-school.ipynb)
+Part 1: [![Open In Colab (part 1)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part1-text-school.ipynb) | 
+Part 2: [![Open In Colab (part 2)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part2-vector-school.ipynb) | 
+Part 3: [![Open In Colab (part 3)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_3/Workshop3-part3-gridded-school.ipynb)
 
 Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to [Workshop 3](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_3).
 
 
 ### Workshop 4: Researching with hydrological data
 **Facilitators:** *Tom Keel | Matt Dalle Piagge | Kit Macleod*  
-Notebook on practical applications: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_4/Workshop_4_comparing_rainfall_estimates.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_4/Workshop_4_comparing_rainfall_estimates.ipynb)
 
 Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to [Workshop 4](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_4).
 
@@ -104,7 +102,7 @@ During this session you will gain an understanding of the FAIR principles, how t
 
 ### Workshop 6: Using an open dataset and machine learning to explore British hydrological diversity
 **Facilitators:** *Molly Asher | Ali Rudd | Matt Fry*  
-Notebook on scientific analysis: [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main)
 
 This workshop introduces the CAMELS-GB dataset and how it can be used to better understand, explain and predict how catchments are likely to respond to rainfall events. We explore how maps can be used to visualise and reveal patterns in catchment characteristics and then use machine learning techniques to investigate how catchment characteristics influence hydrological behaviour and flow variability across Great Britain. Here is the link to [Workshop 6](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_6).
 
